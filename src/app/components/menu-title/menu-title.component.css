@@ -1,0 +1,14 @@
+.menu-title{
+    color: white;
+}
+.menu-title > h1{
+    color: white;
+    margin: 15px 0px;
+    font-size: 7rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.menu-title > hr{
+    margin: 1rem 0;
+}
