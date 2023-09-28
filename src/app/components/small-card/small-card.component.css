@@ -1,0 +1,12 @@
+.small_card_container{
+    border: white solid 1px;
+    width: 600px;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.small-cardphoto > img{
+    width: 200px;
+    height: 150px;
+}
