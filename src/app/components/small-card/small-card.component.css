@@ -1,12 +1,23 @@
-.small_card_container{
-    border: white solid 1px;
-    width: 600px;
-    height: 250px;
+
+.container{
+    width: 450px;
     display: flex;
     flex-direction: row;
-    
+    margin-bottom: 1rem;
+    margin-top: .5rem;    
 }
 .small-cardphoto > img{
-    width: 200px;
+    width: 150px;
     height: 150px;
+    margin-right: 0.5rem;
+}
+.smallcard-description > h6{
+    margin-bottom: 10px;   
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.smallcard-description > p{
+    text-align: left;
+
 }

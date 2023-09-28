@@ -1,23 +1,19 @@
 .container{
-    border: solid white 1px;
-    height: 750px;
-    width: 1000px;
+    height: 520px;
+    width: 600px;
     margin: 0 2rem;
     
-
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
 }
 .bigcard-photo > img {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     width: 100%;
     min-width: 400px;
 }
 .bigcard-title > h1{
     font-size: 1.2rem;
-    margin-bottom: 1rem;
+    margin-bottom: .2rem;
 }
 .bigcard-description > p{
     color: grey;
